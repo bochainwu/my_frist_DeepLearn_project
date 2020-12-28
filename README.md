@@ -1,7 +1,6 @@
 # my_frist_DeepLearn_project
 # MNIST project
 
-![images](C:\Users\user\Desktop\images.png)
 
 Using dense layer neural network to distinguish handwritten digits from 0 to 9
 
